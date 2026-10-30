@@ -1,0 +1,10 @@
+[{
+  "packageFamilyName": "7EE7776C.LinkedInforWindows_w1wdnht996qgy",
+  "paths": [ "*" ],
+  "excludePaths" : [ "/sales/*", "/campaignmanager/*", "/learning/*", "/job-posting/*", "/insights/*", "/windows-app-auth*", "/redir/redirect*" ]
+ },
+ {
+  "packageFamilyName": "7EE7776C.LinkedInEI_w1wdnht996qgy",
+  "paths": [ "*" ],
+  "excludePaths" : [ "/sales/*", "/campaignmanager/*", "/learning/*", "/job-posting/*", "/insights/*", "/windows-app-auth*", "/redir/redirect*" ]
+ }]
